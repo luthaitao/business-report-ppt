@@ -1,0 +1,1555 @@
+{
+ "root": "",
+ "_note": "模板库根目录(BYO,用户自备):设环境变量 BUSINESS_PPT_ROOT,或把本字段填为自己的模板目录。索引数据(编号/风格族/主色板/格式)来自第三方欧美扁平风模板包的实测元数据,模板文件本身不随技能分发;未配置模板库时本文件仍可浏览风格族,构建请用任何 .pptx 或技能自带 assets/demo_template.pptx。",
+ "families": {
+  "1": "互联网科技",
+  "2": "蓝绿科技",
+  "3": "灰白简约",
+  "4": "红色商务",
+  "5": "橙黄商务",
+  "6": "橙黄商务",
+  "7": "红色商务",
+  "8": "蓝色商务",
+  "9": "蓝色商务",
+  "10": "橙黄商务",
+  "11": "商务红黑",
+  "12": "灰白简约",
+  "13": "灰白简约",
+  "14": "商务红黑",
+  "15": "蓝色商务",
+  "16": "深色杂志",
+  "17": "灰白简约",
+  "18": "蓝色商务",
+  "19": "蓝色商务",
+  "20": "蓝色商务",
+  "21": "清新文艺",
+  "22": "清新文艺",
+  "23": "蓝色商务",
+  "24": "蓝色商务",
+  "25": "黑金高端",
+  "26": "蓝绿科技",
+  "27": "蓝绿科技",
+  "28": "蓝绿科技",
+  "29": "灰白简约",
+  "30": "灰白简约",
+  "31": "蓝绿科技",
+  "32": "黄色明快",
+  "33": "蓝色商务",
+  "34": "橙黄商务",
+  "35": "黑金高端",
+  "36": "黑金高端",
+  "37": "互联网科技",
+  "38": "黄色明快",
+  "39": "清新文艺",
+  "40": "灰白简约",
+  "41": "灰白简约",
+  "42": "蓝绿科技",
+  "43": "橙黄商务",
+  "44": "红色商务",
+  "45": "黑金高端",
+  "46": "清新文艺",
+  "47": "深色杂志",
+  "48": "黑金高端",
+  "49": "黑金高端",
+  "50": "蓝色商务",
+  "51": "互联网科技",
+  "52": "清新文艺",
+  "53": "清新文艺",
+  "54": "互联网科技",
+  "55": "深色杂志",
+  "56": "深色杂志",
+  "57": "灰白简约",
+  "58": "灰白简约",
+  "59": "深色杂志",
+  "60": "清新文艺",
+  "61": "清新文艺",
+  "62": "清新文艺",
+  "63": "蓝色商务",
+  "64": "清新文艺",
+  "65": "灰白简约",
+  "66": "黄色明快",
+  "67": "互联网科技",
+  "68": "互联网科技",
+  "69": "灰白简约",
+  "70": "黄色明快",
+  "71": "蓝绿科技",
+  "72": "黄色明快",
+  "73": "蓝色商务",
+  "74": "灰白简约",
+  "75": "灰白简约",
+  "76": "黄色明快",
+  "77": "清新文艺",
+  "78": "互联网科技",
+  "79": "黑金高端",
+  "80": "灰白简约",
+  "81": "深色杂志",
+  "82": "灰白简约",
+  "83": "商务红黑",
+  "84": "商务红黑",
+  "85": "蓝绿科技",
+  "86": "蓝色商务",
+  "87": "商务红黑",
+  "88": "黑金高端",
+  "89": "灰白简约",
+  "90": "灰白简约",
+  "91": "橙黄商务"
+ },
+ "templates": [
+  {
+   "num": 1,
+   "file": "001互联网IT.ppt",
+   "family": "互联网科技",
+   "category": "互联网/IT",
+   "dark": false,
+   "palette": [
+    "#C9CBCB",
+    "#DDDDDD",
+    "#D3D6D6",
+    "#919D9E",
+    "#F4F4F4",
+    "#E8E7E6"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 2,
+   "file": "002扁平化品牌.ppt",
+   "family": "蓝绿科技",
+   "category": "扁平化/品牌",
+   "dark": true,
+   "palette": [
+    "#142E33",
+    "#D2CAC0",
+    "#DDDCDA",
+    "#2E4242",
+    "#6A6562",
+    "#86B3A6"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 3,
+   "file": "003扁平化炫彩.ppt",
+   "family": "灰白简约",
+   "category": "扁平化/炫彩",
+   "dark": false,
+   "palette": [
+    "#FFFFFF",
+    "#C8CECB",
+    "#D9D7D0",
+    "#E8EAE7",
+    "#B7A99F",
+    "#FDFBF7"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 4,
+   "file": "004扁平黑红.ppt",
+   "family": "红色商务",
+   "category": "扁平化/黑红",
+   "dark": false,
+   "palette": [
+    "#CCC9C9",
+    "#B74F5C",
+    "#DFDCDD",
+    "#F8F9F9",
+    "#D4D5D5",
+    "#ECECEC"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 5,
+   "file": "005商务橙灰.ppt",
+   "family": "橙黄商务",
+   "category": "商务橙灰",
+   "dark": false,
+   "palette": [
+    "#CCC8C1",
+    "#A28E72",
+    "#D3D4D4",
+    "#DBDBDB",
+    "#F3F4F3",
+    "#E8E3DB"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 6,
+   "file": "006欧美商务橙黄.ppt",
+   "family": "橙黄商务",
+   "category": "欧美商务橙黄",
+   "dark": false,
+   "palette": [
+    "#D4D1CB",
+    "#E4DFD3",
+    "#FFFFFE",
+    "#BAB6B1",
+    "#E9E9E9",
+    "#F9F7F3"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 7,
+   "file": "007红色商业企业宣传.ppt",
+   "family": "红色商务",
+   "category": "红色商业企业宣传",
+   "dark": false,
+   "palette": [
+    "#C5C7CA",
+    "#DEDCDD",
+    "#A38C8E",
+    "#D3D5D8",
+    "#EAEEF3",
+    "#C3D5E5"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 8,
+   "file": "008蓝色国家机关.ppt",
+   "family": "蓝色商务",
+   "category": "蓝色国家机关",
+   "dark": false,
+   "palette": [
+    "#DCDCDA",
+    "#C9CAC8",
+    "#B8C4C1",
+    "#7C9A9F",
+    "#EAF0EB",
+    "#CFDAD9"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 9,
+   "file": "009毕业答辩.ppt",
+   "family": "蓝色商务",
+   "category": "毕业答辩",
+   "dark": false,
+   "palette": [
+    "#38322C",
+    "#9C8665",
+    "#DFDFDD",
+    "#BDC3C2",
+    "#CDCCCB",
+    "#D7D0C7"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 10,
+   "file": "010产品展示.pptx",
+   "family": "橙黄商务",
+   "category": "品牌展示",
+   "dark": false,
+   "palette": [
+    "#C8C9C9",
+    "#DEDFDD",
+    "#FFFFFF",
+    "#948779",
+    "#D4D1CD",
+    "#F7F5F3"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 11,
+   "file": "011汇报红黑简约.ppt",
+   "family": "商务红黑",
+   "category": "汇报红黑简约",
+   "dark": false,
+   "palette": [
+    "#D1D0D0",
+    "#EFEFED",
+    "#DBDCDB",
+    "#F5F6F4",
+    "#AE9B9A",
+    "#E8E7E6"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 12,
+   "file": "012年中汇报.ppt",
+   "family": "灰白简约",
+   "category": "年终汇报",
+   "dark": false,
+   "palette": [
+    "#C6CCCB",
+    "#E5E4E3",
+    "#DBDDDC",
+    "#D7D2D1",
+    "#B6AAA7",
+    "#E9E9E9"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 13,
+   "file": "013商务大气简约.ppt",
+   "family": "灰白简约",
+   "category": "商务大气简约",
+   "dark": false,
+   "palette": [
+    "#DCDDDE",
+    "#CBCDCE",
+    "#D4D3D3",
+    "#E8EAEB",
+    "#F8F7F7",
+    "#B1B1B3"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 14,
+   "file": "014红黑商务模板.ppt",
+   "family": "商务红黑",
+   "category": "红黑商务模板",
+   "dark": false,
+   "palette": [
+    "#DEDEDE",
+    "#BEBEBE",
+    "#D3D3D3",
+    "#A06F6F",
+    "#CCC6C6",
+    "#F1F2F2"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 15,
+   "file": "015蓝简约清新.ppt",
+   "family": "蓝色商务",
+   "category": "蓝简约清新",
+   "dark": false,
+   "palette": [
+    "#DFD8C6",
+    "#F5F5F5",
+    "#D7D0BE",
+    "#FBFBFB",
+    "#92928A",
+    "#E8E5DC"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 16,
+   "file": "016黑色大气.ppt",
+   "family": "深色杂志",
+   "category": "黑色大气",
+   "dark": true,
+   "palette": [
+    "#403F3F",
+    "#CFCFCF",
+    "#535353",
+    "#DFDFDE",
+    "#6A6866",
+    "#AFADAA"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 17,
+   "file": "017灰色展示.ppt",
+   "family": "灰白简约",
+   "category": "灰色展示",
+   "dark": false,
+   "palette": [
+    "#C7CAC9",
+    "#62666A",
+    "#D9D8D7",
+    "#87919B",
+    "#EEEEEE",
+    "#B6A895"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 18,
+   "file": "018清新汇报.ppt",
+   "family": "蓝色商务",
+   "category": "清新汇报",
+   "dark": false,
+   "palette": [
+    "#CAD3D3",
+    "#E8EEF1",
+    "#DDE6E2",
+    "#D9D9DA",
+    "#F1F6F9",
+    "#AAB1B3"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 19,
+   "file": "019蓝色商务清新.ppt",
+   "family": "蓝色商务",
+   "category": "蓝色商务清新",
+   "dark": false,
+   "palette": [
+    "#C7D0D3",
+    "#F7FAFD",
+    "#D3DCE0",
+    "#90A8B5",
+    "#F3F6FA",
+    "#E4E7E9"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 20,
+   "file": "020深蓝色扁平.ppt",
+   "family": "蓝色商务",
+   "category": "深蓝色扁平",
+   "dark": false,
+   "palette": [
+    "#DEDFE0",
+    "#4A7187",
+    "#C1C4C7",
+    "#CFCFCF",
+    "#FBFAFB",
+    "#F4F4F4"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 21,
+   "file": "021绿色清新.ppt",
+   "family": "清新文艺",
+   "category": "绿色清新",
+   "dark": false,
+   "palette": [
+    "#D5D7D6",
+    "#EEEEEE",
+    "#E2E5E4",
+    "#ACC3C4",
+    "#F0F0F0",
+    "#EFEAE9"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 22,
+   "file": "022扁平小清新.pptx",
+   "family": "清新文艺",
+   "category": "扁平小清新",
+   "dark": false,
+   "palette": [
+    "#D6D0D1",
+    "#D3DFDF",
+    "#C3CACD",
+    "#FCFDFD",
+    "#AC8498",
+    "#F3E9EA"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 23,
+   "file": "023清新简约.pptx",
+   "family": "蓝色商务",
+   "category": "清新简约",
+   "dark": false,
+   "palette": [
+    "#D4D3D2",
+    "#7F90A1",
+    "#B5BAC2",
+    "#BDCEDC",
+    "#DEE4E7",
+    "#6DB4DB"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 24,
+   "file": "024扁平简约.ppt",
+   "family": "蓝色商务",
+   "category": "多变扁平",
+   "dark": false,
+   "palette": [
+    "#FAFBFA",
+    "#FFFFFF",
+    "#8DB3C2",
+    "#F4F3F4",
+    "#DBEBED",
+    "#FEFDFD"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 25,
+   "file": "025黄色高贵.pptx",
+   "family": "黑金高端",
+   "category": "黄色高贵",
+   "dark": true,
+   "palette": [
+    "#E6E6E6",
+    "#262526",
+    "#423B2D",
+    "#786A47",
+    "#EAE9E7",
+    "#D1C8A9"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 26,
+   "file": "026蓝色科技.ppt",
+   "family": "蓝绿科技",
+   "category": "蓝色科技",
+   "dark": false,
+   "palette": [
+    "#1F546B",
+    "#CECECE",
+    "#398AAD",
+    "#DFDFE0",
+    "#6D96A8",
+    "#9CBFCD"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 27,
+   "file": "027蓝绿扁平.ppt",
+   "family": "蓝绿科技",
+   "category": "蓝绿扁平",
+   "dark": false,
+   "palette": [
+    "#1F84A8",
+    "#DCDCDB",
+    "#B8C5BF",
+    "#CCD6D0",
+    "#FBFCFB",
+    "#EAE9E5"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 28,
+   "file": "028企业宣传大气.ppt",
+   "family": "蓝绿科技",
+   "category": "企业宣传大气",
+   "dark": false,
+   "palette": [
+    "#16B59B",
+    "#F5F4F4",
+    "#FCFBFB",
+    "#7DC0C6",
+    "#267872",
+    "#DEEBEA"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 29,
+   "file": "029简约商务.ppt",
+   "family": "灰白简约",
+   "category": "简约商务",
+   "dark": false,
+   "palette": [
+    "#F5F5F4",
+    "#525358",
+    "#FFFFFF",
+    "#EBE8E1",
+    "#F8F8F8",
+    "#FCFCFC"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 30,
+   "file": "030纯灰色简约.ppt",
+   "family": "灰白简约",
+   "category": "纯灰色简约",
+   "dark": false,
+   "palette": [
+    "#DEDEDE",
+    "#868687",
+    "#FFFFFF",
+    "#D2D2D2",
+    "#E4E4E4",
+    "#F7F7F7"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 31,
+   "file": "031企业文化.ppt",
+   "family": "蓝绿科技",
+   "category": "企业文化",
+   "dark": false,
+   "palette": [
+    "#C5C4C5",
+    "#4DAAD6",
+    "#FFFFFF",
+    "#D0D9DE",
+    "#E1E3E4",
+    "#F5F5F6"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 32,
+   "file": "032黄色展示.ppt",
+   "family": "黄色明快",
+   "category": "黄色展示",
+   "dark": false,
+   "palette": [
+    "#CACCCD",
+    "#616863",
+    "#BCB688",
+    "#E3E2DC",
+    "#F8F9F9",
+    "#DAD3B9"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 33,
+   "file": "033蓝色简约.ppt",
+   "family": "蓝色商务",
+   "category": "蓝色简约",
+   "dark": false,
+   "palette": [
+    "#144354",
+    "#D2D3D4",
+    "#C1C4C6",
+    "#3D6979",
+    "#E0E1E2",
+    "#6C8A96"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 34,
+   "file": "034.ppt",
+   "family": "橙黄商务",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E5E5E6",
+    "#A38966",
+    "#CCCDCC",
+    "#F6F6F5",
+    "#EAEAE7",
+    "#E6D5BF"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 35,
+   "file": "035高端宣讲.ppt",
+   "family": "黑金高端",
+   "category": "高端宣讲",
+   "dark": false,
+   "palette": [
+    "#120D0B",
+    "#DDD4C1",
+    "#C1C2BD",
+    "#947E6D",
+    "#58574F",
+    "#F4E9B3"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 36,
+   "file": "036高端宣讲2.ppt",
+   "family": "黑金高端",
+   "category": "高端宣讲2",
+   "dark": false,
+   "palette": [
+    "#C9C9C9",
+    "#DEDDDC",
+    "#D5D1CD",
+    "#EAE9E8",
+    "#F6F6F6",
+    "#B6AAA6"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 37,
+   "file": "037高端网站类.ppt",
+   "family": "互联网科技",
+   "category": "高端网站类",
+   "dark": true,
+   "palette": [
+    "#CFCECE",
+    "#26211B",
+    "#635345",
+    "#443E37",
+    "#DCDCDC",
+    "#A8A3A0"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 38,
+   "file": "038年终汇报.pptx",
+   "family": "黄色明快",
+   "category": "年终汇报",
+   "dark": false,
+   "palette": [
+    "#D4D2CD",
+    "#9A9995",
+    "#BCA976",
+    "#E0E0E0",
+    "#838078",
+    "#CFC4A3"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 39,
+   "file": "039绿色清新.pptx",
+   "family": "清新文艺",
+   "category": "绿色清新",
+   "dark": false,
+   "palette": [
+    "#D0CBCA",
+    "#E1E9E7",
+    "#D6D7D6",
+    "#E3ECE9",
+    "#9CC0B7",
+    "#D7E1DE"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 40,
+   "file": "040好看.ppt",
+   "family": "灰白简约",
+   "category": "好看",
+   "dark": false,
+   "palette": [
+    "#5D565E",
+    "#DBDADA",
+    "#CECDCD",
+    "#E6E5E4",
+    "#EBEBE9",
+    "#B6AEAF"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 41,
+   "file": "041企业管理.ppt",
+   "family": "灰白简约",
+   "category": "企业管理",
+   "dark": false,
+   "palette": [
+    "#D2D1D1",
+    "#56524E",
+    "#C5C2C0",
+    "#FFFEFD",
+    "#A1A09D",
+    "#E6E7E6"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 42,
+   "file": "042清新蓝色.ppt",
+   "family": "蓝绿科技",
+   "category": "清新蓝色",
+   "dark": false,
+   "palette": [
+    "#435C66",
+    "#90A2AA",
+    "#CDCECE",
+    "#D9D7D6",
+    "#B6C9CE",
+    "#EDEEEE"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 43,
+   "file": "043扁平橙灰.ppt",
+   "family": "橙黄商务",
+   "category": "扁平橙灰",
+   "dark": false,
+   "palette": [
+    "#4E444F",
+    "#CFCECD",
+    "#DEDEDD",
+    "#CDB5A5",
+    "#645D63",
+    "#9C7C6E"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 44,
+   "file": "044欧美简约红.pptx",
+   "family": "红色商务",
+   "category": "欧美简约红",
+   "dark": false,
+   "palette": [
+    "#5F4948",
+    "#D2D2D2",
+    "#F9F9FA",
+    "#DDDBDB",
+    "#B5B0AD",
+    "#EDEDED"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 45,
+   "file": "045黑金.ppt",
+   "family": "黑金高端",
+   "category": "黑金",
+   "dark": true,
+   "palette": [
+    "#202121",
+    "#CFCECC",
+    "#6E5B3F",
+    "#3C3932",
+    "#DDDDDD",
+    "#B9AD8C"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 46,
+   "file": "046绿色.pptx",
+   "family": "清新文艺",
+   "category": "绿色",
+   "dark": false,
+   "palette": [
+    "#D1D0D0",
+    "#DFE2DC",
+    "#FFFFFF",
+    "#589C72",
+    "#B6CA9F",
+    "#FAFBF8"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 47,
+   "file": "047手绘风.ppt",
+   "family": "深色杂志",
+   "category": "手绘风",
+   "dark": false,
+   "palette": [
+    "#2D2D2D",
+    "#D4D0CF",
+    "#DFDFDF",
+    "#5E5E5E",
+    "#B9BABB",
+    "#3B3B3B"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 48,
+   "file": "048蓝金科技.ppt",
+   "family": "黑金高端",
+   "category": "蓝金科技",
+   "dark": false,
+   "palette": [
+    "#D2D0CF",
+    "#567574",
+    "#434C49",
+    "#DEDEDE",
+    "#758583",
+    "#B5B9B9"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 49,
+   "file": "049黑金杂志风.ppt",
+   "family": "黑金高端",
+   "category": "黑金杂志风",
+   "dark": false,
+   "palette": [
+    "#12110F",
+    "#CFCDC4",
+    "#D6D6D6",
+    "#F3F3ED",
+    "#A29E91",
+    "#E4E2D6"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 50,
+   "file": "050蓝色扁平风.ppt",
+   "family": "蓝色商务",
+   "category": "蓝色扁平风",
+   "dark": false,
+   "palette": [
+    "#C8CBCB",
+    "#FFFFFF",
+    "#547B8A",
+    "#D7DBDC",
+    "#EAEAEA",
+    "#FCFBF9"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 51,
+   "file": "051互联网蓝色.pptx",
+   "family": "互联网科技",
+   "category": "互联网蓝色",
+   "dark": false,
+   "palette": [
+    "#CCCDCD",
+    "#DDDDDD",
+    "#CFD8DF",
+    "#BDCAD3",
+    "#8AA3B7",
+    "#E9EEF1"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 52,
+   "file": "052扁平粉色.ppt",
+   "family": "清新文艺",
+   "category": "扁平粉色",
+   "dark": false,
+   "palette": [
+    "#CB9A96",
+    "#FFFFFF",
+    "#C6C8C8",
+    "#E1E0E0",
+    "#D7CDCC",
+    "#F9F4F4"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 53,
+   "file": "053扁平绿色.pptx",
+   "family": "清新文艺",
+   "category": "扁平绿色",
+   "dark": false,
+   "palette": [
+    "#739C61",
+    "#DBDBDA",
+    "#C4C3C2",
+    "#C5D2C6",
+    "#8FBF87",
+    "#EAEDEA"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 54,
+   "file": "054蓝互联网.ppt",
+   "family": "互联网科技",
+   "category": "蓝互联网",
+   "dark": false,
+   "palette": [
+    "#D8DBDD",
+    "#C0C4C7",
+    "#7183A0",
+    "#CECDCC",
+    "#FAFBFB",
+    "#EDEEEE"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 55,
+   "file": "055黑色杂志.ppt",
+   "family": "深色杂志",
+   "category": "黑色杂志",
+   "dark": true,
+   "palette": [
+    "#0B0B0B",
+    "#D4D4D4",
+    "#BBBBBB",
+    "#747272",
+    "#3B3B3B",
+    "#E4E3E4"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 56,
+   "file": "056黑色杂志2.pptx",
+   "family": "深色杂志",
+   "category": "黑色杂志2",
+   "dark": true,
+   "palette": [
+    "#0B0B0D",
+    "#D1D1D1",
+    "#B4B4B4",
+    "#E0E0E0",
+    "#2E2D2D",
+    "#656462"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 57,
+   "file": "057公司介绍.ppt",
+   "family": "灰白简约",
+   "category": "公司介绍",
+   "dark": false,
+   "palette": [
+    "#D6D6D6",
+    "#7C585C",
+    "#CEC1BD",
+    "#FFFFFF",
+    "#B1B2B1",
+    "#F0EDEB"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 58,
+   "file": "058通用扁平.pptx",
+   "family": "灰白简约",
+   "category": "通用扁平",
+   "dark": false,
+   "palette": [
+    "#363636",
+    "#CFCFCF",
+    "#726C6B",
+    "#E0E0E0",
+    "#685456",
+    "#B1AEAE"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 59,
+   "file": "059.pptx",
+   "family": "深色杂志",
+   "category": null,
+   "dark": true,
+   "palette": [
+    "#090A0B",
+    "#E6E6E6",
+    "#BBBAB9",
+    "#262626",
+    "#EBEBEB",
+    "#605E5B"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 60,
+   "file": "060文艺商务.pptx",
+   "family": "清新文艺",
+   "category": "文艺商务",
+   "dark": false,
+   "palette": [
+    "#CECDCC",
+    "#E7E6E6",
+    "#DDDDDD",
+    "#79797F",
+    "#EAE9E9",
+    "#EAE3D6"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 61,
+   "file": "061文艺清新.pptx",
+   "family": "清新文艺",
+   "category": "文艺清新",
+   "dark": false,
+   "palette": [
+    "#D6DCDB",
+    "#D1D0D0",
+    "#E4E4E4",
+    "#B6CCBF",
+    "#9EB9B1",
+    "#EDEDED"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 62,
+   "file": "062文艺清新2.ppt",
+   "family": "清新文艺",
+   "category": "文艺清新2",
+   "dark": false,
+   "palette": [
+    "#D5CFC9",
+    "#45322B",
+    "#72645A",
+    "#DFDEDD",
+    "#9F7A6D",
+    "#B4BCB9"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 63,
+   "file": "063复古蓝.ppt",
+   "family": "蓝色商务",
+   "category": "复古蓝",
+   "dark": false,
+   "palette": [
+    "#D4D5D5",
+    "#364E69",
+    "#E6E8E7",
+    "#8F96A0",
+    "#F2F3F2",
+    "#B8BBBE"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 64,
+   "file": "064简约文艺蓝.ppt",
+   "family": "清新文艺",
+   "category": "简约文艺蓝",
+   "dark": false,
+   "palette": [
+    "#D9DADB",
+    "#F7F7F7",
+    "#485A6F",
+    "#CCC7C6",
+    "#AEB9C4",
+    "#ECEDED"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 65,
+   "file": "065宣传扁平.ppt",
+   "family": "灰白简约",
+   "category": "宣传扁平",
+   "dark": false,
+   "palette": [
+    "#D1D1D0",
+    "#E9EAEA",
+    "#D4DBDC",
+    "#E2E3E3",
+    "#BEAEAA",
+    "#ECE2D5"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 66,
+   "file": "066灰黄扁平.ppt",
+   "family": "黄色明快",
+   "category": "灰黄扁平",
+   "dark": false,
+   "palette": [
+    "#DFDFDF",
+    "#2A2C43",
+    "#C8C4AE",
+    "#575454",
+    "#86806B",
+    "#E1D78B"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 67,
+   "file": "067蓝色电子商务.ppt",
+   "family": "互联网科技",
+   "category": "蓝色电子商务",
+   "dark": false,
+   "palette": [
+    "#C6CCD3",
+    "#FCFDFD",
+    "#D2DADF",
+    "#7B99C4",
+    "#F6F6F6",
+    "#E2E4E5"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 68,
+   "file": "068互联网科技.ppt",
+   "family": "互联网科技",
+   "category": "互联网科技",
+   "dark": false,
+   "palette": [
+    "#BCC9D0",
+    "#FFFFFF",
+    "#D2DCDE",
+    "#5C849E",
+    "#EAEAEA",
+    "#FDF7DE"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 69,
+   "file": "069商务大气.ppt",
+   "family": "灰白简约",
+   "category": "商务大气",
+   "dark": false,
+   "palette": [
+    "#413F3C",
+    "#DAD9D9",
+    "#CCCAC8",
+    "#ECEBEB",
+    "#BBBBBA",
+    "#FAFAFA"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 70,
+   "file": "070年度总结.ppt",
+   "family": "黄色明快",
+   "category": "年度总结",
+   "dark": false,
+   "palette": [
+    "#C4CFD1",
+    "#FFFFFF",
+    "#D6DDDD",
+    "#8FACB1",
+    "#EDEDED",
+    "#FDFDFC"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 71,
+   "file": "071环保蓝.ppt",
+   "family": "蓝绿科技",
+   "category": "环保蓝",
+   "dark": false,
+   "palette": [
+    "#D2D2D1",
+    "#FFFFFF",
+    "#4C8DA4",
+    "#E3E7E9",
+    "#FEFEFE",
+    "#B3C8D0"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 72,
+   "file": "072黄色.ppt",
+   "family": "黄色明快",
+   "category": "黄色",
+   "dark": false,
+   "palette": [
+    "#DDDAD0",
+    "#FFFFFF",
+    "#978E6F",
+    "#D4CCAD",
+    "#E5E6E7",
+    "#FAF8F2"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 73,
+   "file": "073蓝色线条.ppt",
+   "family": "蓝色商务",
+   "category": "蓝色线条",
+   "dark": false,
+   "palette": [
+    "#C1C0C1",
+    "#1D3F75",
+    "#2D5E9A",
+    "#D1C4C1",
+    "#DADBDA",
+    "#61759A"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 74,
+   "file": "074.pptx",
+   "family": "灰白简约",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E6E6",
+    "#E0E1E2",
+    "#EAEBED",
+    "#F4F5F7",
+    "#B2B2B4",
+    "#E2E7EA"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 75,
+   "file": "075.ppt",
+   "family": "灰白简约",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E8E8E8",
+    "#FFFFFF",
+    "#DDDDDC",
+    "#7C8484",
+    "#F8F8F8",
+    "#E0E9E9"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 76,
+   "file": "076.ppt",
+   "family": "黄色明快",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E6E6",
+    "#FFFFFF",
+    "#8F8459",
+    "#E5DCB4",
+    "#EDEBE5",
+    "#F7F8F8"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 77,
+   "file": "077商业PPT模板精选(绿).ppt",
+   "family": "清新文艺",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E8E8E8",
+    "#F8F8F8",
+    "#DCDED9",
+    "#F3F3F3",
+    "#898583",
+    "#DFE8DB"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 78,
+   "file": "078仿微信广告介绍模板.pptx",
+   "family": "互联网科技",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E7E7E7",
+    "#F2F2F2",
+    "#5C5C5C",
+    "#D7D7D6",
+    "#EEEEEE",
+    "#DBEAE2"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 79,
+   "file": "079黑黄竞岗报告.pptx",
+   "family": "黑金高端",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E7E8",
+    "#D6A926",
+    "#FFFFFF",
+    "#EBDCB2",
+    "#F7F6F4",
+    "#F9E8B5"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 80,
+   "file": "080.pptx",
+   "family": "灰白简约",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#FAF9F5",
+    "#E6E6E6",
+    "#DDDCDA",
+    "#B3ADA9",
+    "#FCFBF7",
+    "#F0EFEC"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 81,
+   "file": "081黑白 动态 水墨画.ppt",
+   "family": "深色杂志",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E6E6",
+    "#CECCCC",
+    "#8A8787",
+    "#EEEEEE",
+    "#E4E4E4",
+    "#E5E6E5"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 82,
+   "file": "082.ppt",
+   "family": "灰白简约",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E6E6",
+    "#F5F5F4",
+    "#8A9091",
+    "#DEDEDE",
+    "#EBECEC",
+    "#E9E6D9"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 83,
+   "file": "083.ppt",
+   "family": "商务红黑",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E6E6",
+    "#D04C5C",
+    "#D6CECE",
+    "#F3F5F5",
+    "#EAEDEB",
+    "#E4E8E7"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 84,
+   "file": "084红黑商务简约通用模板.pptx",
+   "family": "商务红黑",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E4E5E6",
+    "#B38886",
+    "#CBD0D3",
+    "#DCDADC",
+    "#EFF3F6",
+    "#E7EAEB"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 85,
+   "file": "085.ppt",
+   "family": "蓝绿科技",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E6E6",
+    "#338579",
+    "#F3F3F3",
+    "#E0E7E6",
+    "#7FC9C0",
+    "#EBEAEA"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 86,
+   "file": "086锐普PPT专用模板.pptx",
+   "family": "蓝色商务",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E6E6",
+    "#182130",
+    "#2E3848",
+    "#5A6370",
+    "#ECECEC",
+    "#B9B9BC"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 87,
+   "file": "087绍兴市恒盛新材料技术发展有限公司.ppt",
+   "family": "商务红黑",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E6E6",
+    "#93423C",
+    "#F1F2F2",
+    "#A3AAAC",
+    "#DDCCCB",
+    "#E0E5E8"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 88,
+   "file": "088.pptx",
+   "family": "黑金高端",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E6E6",
+    "#51504D",
+    "#D4CCAE",
+    "#EFEFF0",
+    "#EBEBEC",
+    "#E9E6D7"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 89,
+   "file": "089.ppt",
+   "family": "灰白简约",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E6E6E6",
+    "#758C90",
+    "#D8D8D6",
+    "#FDFDFD",
+    "#EBECEC",
+    "#E2E6EA"
+   ],
+   "fmt": "ppt"
+  },
+  {
+   "num": 90,
+   "file": "090.pptx",
+   "family": "灰白简约",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E8E8E8",
+    "#F9F9F9",
+    "#E0E1E1",
+    "#8B919C",
+    "#F4F4F4",
+    "#E2E8E9"
+   ],
+   "fmt": "pptx"
+  },
+  {
+   "num": 91,
+   "file": "091.ppt",
+   "family": "橙黄商务",
+   "category": null,
+   "dark": false,
+   "palette": [
+    "#E7E8E8",
+    "#ED7E32",
+    "#EBC5AC",
+    "#E68E58",
+    "#EF8F4E",
+    "#E8792E"
+   ],
+   "fmt": "ppt"
+  }
+ ]
+}
